@@ -69,3 +69,9 @@ class MyCog(commands.Cog):
         for i in range(tacterng):
             await ctx.send("<@142588842614980608>")
             time.sleep(0.1)
+
+    @commands.command()
+    async def hesright(self, ctx):
+
+        await ctx.send("https://files.catbox.moe/lk4s36.png")
+        await ctx.send("He's right you know.")
