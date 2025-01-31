@@ -72,6 +72,5 @@ class MyCog(commands.Cog):
 
     @commands.command()
     async def hesright(self, ctx):
-
         await ctx.send("https://files.catbox.moe/lk4s36.png")
         await ctx.send("He's right you know.")
