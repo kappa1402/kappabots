@@ -57,7 +57,7 @@ class MyCog(commands.Cog):
 
         rng = random.randint(0, int(len(direwolfMoments)-1))
 
-        await ctx.send(direwolfMoments[rng])
+        await ctx.send(direwolfMoments["kappa"])
 
     @commands.command()
     async def forsen(self, ctx):
