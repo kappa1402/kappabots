@@ -50,7 +50,7 @@ class MyCog(commands.Cog):
             "https://files.catbox.moe/3agngm.webp", #6euro
             "https://files.catbox.moe/10kpdl.webp", #sweetsummerchild
             "https://files.catbox.moe/71er96.webp", #evenrat
-            "https://youtu.be/MVF4QbS9JTo?si=1mjMKjZS_daPAe1g", #tactevid /
+            "https://youtu.be/MVF4QbS9JTo?si=1mjMKjZS_daPAe1g", #tactevid
             "https://youtu.be/-2nBV6iEH_U?si=xgeJBMO85gOiw9LO", #thewolfvid /
             "https://youtu.be/4-mfiyTvw2M?si=W7vERcefwqpcmgfO", #wolfvid /
         ]
